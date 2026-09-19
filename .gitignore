@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual environments
+.venv/
+venv/
+env/
+smartmedwaste-ai/
+smartmedwaste-ai-new/
+
+# Dataset
+dataset/
+Dataset/
+archive/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
